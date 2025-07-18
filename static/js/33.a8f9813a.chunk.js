@@ -1,0 +1,1 @@
+(this["webpackJsonpsri-app"]=this["webpackJsonpsri-app"]||[]).push([[33],{68:function(t,i,a){"use strict";a.d(i,"a",(function(){return r}));var n=a(0);function r(t){return Object(n.a)({tag:"svg",attr:{viewBox:"0 0 24 24"},child:[{tag:"path",attr:{fill:"none",strokeWidth:"2",d:"M3,3 L21,21 M3,21 L21,3"},child:[]}]})(t)}}}]);
